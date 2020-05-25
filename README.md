@@ -3,4 +3,5 @@ Dumping ground for Java
 
 ## Contents
 
-[Colours in Windows Console Application](https://github.com/James-P-D/JavaDump/tree/master/src/ConsoleColourTest)
+[Colours in Windows Console Application](https://github.com/James-P-D/JavaDump/tree/master/src/ConsoleColourTest)  
+[Displaying Unicode in Windows Console Application](https://github.com/James-P-D/JavaDump/tree/master/src/OutputSpecialCharacters)  
